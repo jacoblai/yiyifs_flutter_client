@@ -86,7 +86,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ImgUrl = BaseUrl + "api/down/" + res['data'][0];
       });
 
-//      print(ImgUrl);
+      print(ImgUrl);
     });
   }
 
